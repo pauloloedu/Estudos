@@ -170,35 +170,35 @@
                 <td align="center">1</td>
                 <td align="center">1018</td>
 				<td>Cédulas</td>
-                <td><a href="link">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_3/1018/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td align="center">1019</td>
 				<td>Conversão de Tempo</td>
-                <td><a href="link">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_3/1019/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td align="center">1020</td>
 				<td>Idade em Dias</td>
-                <td><a href="link">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_3/1020/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
            	<tr>
                 <td align="center">4</td>
                 <td align="center">1021</td>
 				<td>Notas e Moedas</td>
-                <td><a href="link">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_3/1021/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
 			<tr>
                 <td align="center">5</td>
                 <td align="center">1061</td>
 				<td>Tempo de um Evento</td>
-                <td><a href="link">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_3/1061/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
