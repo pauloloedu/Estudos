@@ -9,7 +9,7 @@
             <tr>
                 <th>Linguagem</th>
                 <th>Local do Curso</th>
-				        <th>Descrição</th>
+		<th>Descrição</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
@@ -17,7 +17,7 @@
               <td>C # (C Sharp)</td>
               <td>Udemy</td>
               <td>C# primeiros passos: Lógica de Programação e Algoritmos</td>
-              <td><a href"link da pasta do curso"</td>
+		    <td><a href="https://github.com/pauloloedu/Estudos/tree/main/C_Sharp/Udemy">Pasta dos Exercicios</a></td>
               <td> ⏲️ </td>
             </tr>
     </div>      
