@@ -16,8 +16,8 @@
             <tr>
               <td>C # (C Sharp)</td>
               <td>Udemy</td>
-              <td>C# primeiros passos: Lógica de Programação e Algoritmos</td>
-		    <td><a href="https://github.com/pauloloedu/Estudos/tree/main/C_Sharp/Udemy">Pasta dos Exercicios</a></td>
+              <td><a href="https://www.udemy.com/course/logica-de-programacao-csharp/">C# primeiros passos: Lógica de Programação e Algoritmos</a></td>
+			  <td><a href="https://github.com/pauloloedu/Estudos/tree/main/C_Sharp/Udemy">Pasta dos Exercicios</a></td>
               <td> ⏲️ </td>
             </tr>
     </div>      
