@@ -119,35 +119,35 @@
                 <td align="center">1</td>
                 <td align="center">1009</td>
 				<td>Extremamente Básico</td>
-                <td><a href="link exercicio">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_2/1009/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td align="center">1011</td>
 				<td>Área do Círculo</td>
-                <td><a href="link exercicio">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_2/1011/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td align="center">1012</td>
 				<td>Soma Simples</td>
-                <td><a href="link exercicio">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_2/1012/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
            	<tr>
                 <td align="center">4</td>
                 <td align="center">1013</td>
 				<td>Produto Simples</td>
-                <td><a href="link exercicio">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_2/1013/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
 			<tr>
                 <td align="center">5</td>
                 <td align="center">1015</td>
 				<td>Média 1</td>
-                <td><a href="link exercicio">Código</a></td>
+                <td><a href="https://github.com/pauloloedu/Estudos/blob/main/C_Sharp/Udemy/Exercicios_URI_Online_Judge/Exercicios_%20propostos_PARTE_2/1015/Program.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
